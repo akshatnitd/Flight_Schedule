@@ -1,6 +1,6 @@
 #Flight_Schedule 
 
-**_A simple utitlity script which will show the flight schedule between any two airports._**
+**_A simple utility script which will show the flight schedule between any two airports._**
 
 **Modules required:** 
 * Selenium:
@@ -13,7 +13,7 @@ It is implemented using the **BeautifulSoup** module of **bs4** and the **webdri
 
 **How to use:**
 The script will show the flights between two airports on a specific dates as entered by the user, along with the Departure time, Arrival time, Duration and the price (per adult). 
-The script shows results for both one-way journey and round-trip journey. . 
+The script shows results for both one-way journey and round-trip journey. 
 
 **To run the script:** Type `python flights.py` from your terminal. 
 
